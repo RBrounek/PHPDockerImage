@@ -1,0 +1,3 @@
+Notes:
+
+- php artisan serve - je to lokální server, na produkci i do dockeru k ničemu
